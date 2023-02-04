@@ -13,4 +13,4 @@ export AWS_PROFILE=default
 export AWS_ACCESS_KEY_ID=ASIA3IHYUBDQJLVYZWUV
 export AWS_SECRET_ACCESS_KEY=yIs+kHfsKQKAPnltU517YCCigwoxdERSdqI8FUkh
 export JWT_SECRET=mysecretstring
-export URL=Udagramapi-env.eba-pecep38v.us-east-1.elasticbeanstalk.com
+export URL=http://udagramapi-env.eba-pecep38v.us-east-1.elasticbeanstalk.com/
